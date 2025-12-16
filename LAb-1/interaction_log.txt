@@ -1,0 +1,17 @@
+[TIMESTAMP] | Topic | Intent | ResponseStyle | FollowUp | UserReaction
+
+2025-01-16 | LAN | CONFUSED | analogy | compare | understood
+2025-12-16 18:39 | LAN | DEFINE | definition | Want a comparison with WAN?
+2025-12-16 18:39 | LAN | EXPLAIN | explanation | Want a comparison with WAN?
+2025-12-16 18:39 | LAN | EXPLAIN | explanation | Want a comparison with WAN?
+2025-12-16 18:39 | WAN | COMPARE | comparison | Want WAN vs LAN comparison?
+2025-12-16 18:40 | WAN | EXPLAIN | explanation | Want WAN vs LAN comparison?
+2025-12-16 18:56 | PAN | EXPLAIN | explanation | Compare PAN with LAN?
+2025-12-16 18:56 | PAN | EXPLAIN | explanation | Compare PAN with LAN?
+2025-12-16 18:56 | PAN | COMPARE | comparison | Compare PAN with LAN?
+2025-12-16 18:56 | PAN | EXPLAIN | explanation | Compare PAN with LAN?
+2025-12-16 18:57 | WAN | DEFINE | definition | Want WAN vs LAN comparison?
+2025-12-16 19:01 | WAN | EXPLAIN | explanation | Want WAN vs LAN comparison?
+2025-12-16 19:01 | PAN | EXPLAIN | explanation | Compare PAN with LAN?
+2025-12-16 19:01 | WAN | EXPLAIN | explanation | Want WAN vs LAN comparison?
+2025-12-16 19:01 | WAN | COMPARE | comparison | Want WAN vs LAN comparison?
